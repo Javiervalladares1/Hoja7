@@ -4,4 +4,3 @@ homework,tarea,devoirs
 woman,mujer,femme
 town,pueblo,ville
 yes,si,Oui
-inteligente,tonto,feo
